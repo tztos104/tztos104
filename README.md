@@ -6,7 +6,7 @@
 3. 어떤 문제라도 창의적으로 해결하는
 ### SKILL
 
-<div align="left">
+
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
@@ -31,14 +31,15 @@
 
 
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tztos104)
+
 
 
 ### STATUS
+<div align="left">
+  
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tztos104)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunny14578&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tztos104&layout=compact)](https://github.com/tztos104/github-readme-stats)
 
 
 
