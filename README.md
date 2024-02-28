@@ -4,9 +4,9 @@
 1. 함께 성장하기 위한 문화를 중요하게 생각하는
 2. 항상 끈기 있게 도전하는
 3. 어떤 문제라도 창의적으로 해결하는
+
+   
 ### SKILL
-
-
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
@@ -31,18 +31,14 @@
 
 
 
-
-
-
 ### STATUS
 <div align="left">
   
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tztos104)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunny14578&show_icons=true&theme=radical)
 
 
-# **프로젝트**
+### **프로젝트**
 <details>
 <summary>클릭하여 섹션 열기/닫기</summary>
   
