@@ -42,7 +42,62 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunny14578&show_icons=true&theme=radical)
 
 
+# **프로젝트**
+<details>
+<summary>클릭하여 섹션 열기/닫기</summary>
+  
+## Prochat_project
+자바스프링 기반 종목토론방
+- 기간 : 2024.1 ~ 2024.2
+- 역할 : 100% 개인 프로젝트 
+- https://github.com/tztos104/Project_prochat
+- 주요 성과:
 
+  - 마이크로 서비스 아키텍처 도입으로 개발 속도 및 시스템 안정성 향상
+  - API Gateway 도입으로 트래픽 관리 및 기능 확장성 개선
+  - 스프링 배치를 통한 주가 데이터 자동화 및 멀티스레드 처리로 데이터 처리 속도 10배 향상 (15분 -> 1분 40초)
+- 사용 기술:
+  - 마이크로 서비스 아키텍처 (MSA)
+  - API Gateway
+  - Java Resilience 4j
+  - 스프링 배치
+  - 멀티스레딩
+
+
+## supul_project
+지점관리가 가능한 방탈출 예약 사이트
+- 기간 : 2023.09 ~ 2023.10
+- 역할
+  - 백엔드 개발:
+    -회원가입, 로그인, 게시판 구현 (Spring Boot, JPA)
+    -결제 시스템 구현 (카카오페이 연동)
+  - 프론트엔드 개발:
+    - Thymeleaf를 활용한 UI 구현
+    - Ajax를 활용한 실시간 예약 확인 기능 개발
+  - 외부 API 통합:
+    - 네이버 API를 통한 지점 위치 정보 제공
+  - 서비스 기능 개발:
+    - 실시간 예약 및 알림 기능 개발
+    - 매출 정산 및 통계 시각화 기능 개발 (MySQL, chart.js)
+    - 안전하고 편리한 결제 시스템 구축 (카카오페이)
+
+## Dusha_project
+django를 활용한 향수 쇼핑몰 만들기
+- 기간 : 2023.06 ~ 2023.07
+- 역할
+  - 백엔드 개발:
+    -회원가입, 로그인, 게시판 구현 (Spring Boot, JPA)
+    -결제 시스템 구현 (카카오페이 연동)
+  - 프론트엔드 개발:
+    - Thymeleaf를 활용한 UI 구현
+    - Ajax를 활용한 실시간 예약 확인 기능 개발
+  - 외부 API 통합:
+    - 네이버 API를 통한 지점 위치 정보 제공
+  - 서비스 기능 개발:
+    - 실시간 예약 및 알림 기능 개발
+    - 매출 정산 및 통계 시각화 기능 개발 (MySQL, chart.js)
+    - 안전하고 편리한 결제 시스템 구축 (카카오페이)
+</details>
 
 <!--
 **tztos104/tztos104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
