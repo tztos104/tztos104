@@ -63,6 +63,7 @@
 ## supul_project
 지점관리가 가능한 방탈출 예약 사이트
 - 기간 : 2023.09 ~ 2023.10
+- https://github.com/tztos104/teamproject2_Supul_java_spring
 - 역할
   - 백엔드 개발:
     -회원가입, 로그인, 게시판 구현 (Spring Boot, JPA)
@@ -80,6 +81,7 @@
 ## Dusha_project
 django를 활용한 향수 쇼핑몰 만들기
 - 기간 : 2023.06 ~ 2023.07
+- https://github.com/tztos104/teamproject1_DUSHAPROJECT_python
 - 역할:
    - 프로젝트 설계 및 구현
    - 시스템 및 기능 개발
