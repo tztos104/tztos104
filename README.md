@@ -37,6 +37,8 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tztos104)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunny14578&show_icons=true&theme=radical)
 
+![KakaoTalk_20240209_030725810](https://github.com/tztos104/tztos104/assets/128444192/a5c18240-466c-451b-8dbf-9d381a497441)
+
 
 ### **프로젝트**
 <details>
